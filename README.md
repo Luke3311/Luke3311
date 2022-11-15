@@ -3,10 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 Snake Game 🐍
+https://github.com/Luke3311/Snake-Game
 
 Pong Game 🏓
+https://github.com/Luke3311/Pong-Game
 
 Blood cell detector 🩸
+https://github.com/Luke3311/Blood-Cell-detector
 
 
 <h2> 🥈 Certifications: </h2>
