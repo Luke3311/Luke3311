@@ -1,5 +1,7 @@
 <h1>Hi, Im Luke! </h1>
-🌱 I’m currently studying Physics and Astronomy at the University of Nottingham
+🔭 I’m currently studying Physics and Astronomy at the University of Nottingham
+🌱 I’m currently working on learning javascript and sharpening my python skills
+
 
 
 <h2>👨‍💻 Projects:</h2>
