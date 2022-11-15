@@ -1,11 +1,12 @@
 <h1>Hi, Im Luke! </h1>
 
 <h2>👨‍💻 Projects:</h2>
+
 Snake Game 🐍
 
-Pong Game
+Pong Game 🏓
 
-Blood cell detector 
+Blood cell detector 🩸
 
 
 <h2> 🥈 Certifications: </h2>
