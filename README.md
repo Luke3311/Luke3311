@@ -17,9 +17,6 @@ Blood cell detector 🩸
 https://github.com/Luke3311/Blood-Cell-detector
 
 
-<h2> 🥈 Certifications: </h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Lukeandreas.p_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
