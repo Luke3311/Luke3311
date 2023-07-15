@@ -1,38 +1,14 @@
-<h1>Hi, Im Luke! </h1>
-🔭 I’m currently studying Physics and Astronomy at the University of Nottingham
+<h1 align="center">Hi 👋, I'm Luke</h1>
+<h3 align="center">A passionate backend developer from London</h3>
 
-🌱 I’m currently working on learning javascript and sharpening my python skills
+- 🌱 I’m currently learning **Javascript**
 
+- 📫 How to reach me **Lukeandreas23@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luke-penn-8b68221a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luke-penn-8b68221a6/" height="30" width="40" /></a>
+</p>
 
-<h2>👨‍💻 Projects:</h2>
-
-Snake Game 🐍
-https://github.com/Luke3311/Snake-Game
-
-Pong Game 🏓
-https://github.com/Luke3311/Pong-Game
-
-Blood cell detector 🩸
-https://github.com/Luke3311/Blood-Cell-detector
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Lukeandreas.p_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/lukeandreas.p_/
-
-
-<!--
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
